@@ -81,7 +81,6 @@ const FieldContainer = styled.div`
 const Field = styled.input`
   background-color: transparent;
   border: none;
-  height: 100%;
   width: 100%;
   margin-left: 1%;
   margin-right: 1%;
@@ -96,7 +95,6 @@ const IconContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
   padding-left: 1%;
   padding-right: 1%;
 `;

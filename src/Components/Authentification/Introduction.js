@@ -52,7 +52,6 @@ const BottomContainer = styled.div`
   justify-content: center;
   align-items: center;
   margin-top: 5%;
-  height: 70%;
   @media (max-width: 768px) {
     height: auto;
   }
